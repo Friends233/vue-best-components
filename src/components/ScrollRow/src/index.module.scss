@@ -1,0 +1,16 @@
+.scorll-wrapper {
+  border: 1px solid black;
+  height: 320px;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  .content-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    .scorll-row {
+      
+    }
+  }
+}

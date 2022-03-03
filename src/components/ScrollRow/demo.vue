@@ -3,7 +3,6 @@
  * @Author: Friends233
 -->
 <script lang="tsx">
-import Vue from 'vue'
 import ScrollRow from '@/components/ScrollRow'
 import { ConfigType } from "@/components/ScrollRow/src/type";
 
