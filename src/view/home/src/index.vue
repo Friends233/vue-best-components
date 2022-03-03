@@ -6,8 +6,8 @@
   <div class="hello">
     <dl>
       <dd>
-        <!-- <el-button class="btn" v-clickSubmit="submitFrom">按钮1</el-button> -->
-        <el-button class="btn" v-clickSubmit="submitFrom"></el-button>
+        <el-button class="btn" v-clickSubmit="submitFrom">按钮1</el-button>
+        <!-- <el-button class="btn" v-clickSubmit="submitFrom"></el-button> -->
         <!-- <button class="btn" v-clickSubmit="submitFrom">按钮2</button>
         <div class="btn divbtn" v-clickSubmit="submitFrom">按钮3</div> -->
       </dd>
